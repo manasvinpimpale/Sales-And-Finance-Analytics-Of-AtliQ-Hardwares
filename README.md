@@ -4,7 +4,7 @@ This project analyzes sales and financial performance of AtliQ Hardwares using E
 
 # Sales Report
 
-## Customer Performance Report
+## [Customer Performance Report](Customer Performance Report.pdf)
 
 This report evaluates customer performance by analyzing purchasing behavior, segmentation, and key performance indicators (KPIs). It helps identify high-value customers and sales trends.
 
