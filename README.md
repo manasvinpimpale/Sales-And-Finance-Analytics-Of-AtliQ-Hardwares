@@ -8,7 +8,7 @@ This project analyzes sales and financial performance of AtliQ Hardwares using E
 
 This report evaluates customer performance by analyzing purchasing behavior, segmentation, and key performance indicators (KPIs). It helps identify high-value customers and sales trends.
 
-## [Market Performance vs. Sales Targets Report](Market20%Performance20%vs20%target.pdf)
+## [Market Performance vs. Sales Targets Report](Market%20Performance%20vs%20target.pdf)
 
 This report compares actual market performance against predefined sales targets to assess sales strategy effectiveness and identify improvement opportunities.
 
@@ -16,11 +16,11 @@ This report compares actual market performance against predefined sales targets 
 
 This project includes various Profit and Loss (P&L) reports for financial analysis:
 
-- **P&L Statement by Fiscal Year**: Provides a high-level overview of financial performance across fiscal years.
+- **[P&L Statement by Fiscal Year](P%20%26%20L%20Statement%20by%20Years.pdf)**: Provides a high-level overview of financial performance across fiscal years.
  
-- **P&L Statement by Months**: Highlights monthly revenue, costs, and profitability trends.
+- **[P&L Statement by Months](P%20%26%20L%20Statement%20by%20Months.pdf)**: Highlights monthly revenue, costs, and profitability trends.
 
-- **P&L by Market**: Evaluates profitability across different geographical markets.
+- **[P&L by Market](P%20%26%20L%20Statement%20by%20Markets.pdf)**: Evaluates profitability across different geographical markets.
 
 # Technical Skills
 
